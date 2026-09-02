@@ -4,7 +4,7 @@
  - I will spell it out again.
 - Let me spell out how it works
 
-**Set it and forget it** --  ustawiasz coś raz, a potem nie musisz o tym więcej myśleć (np. automatyzacja).
+**SET IT AND FORGET IT** --  ustawiasz coś raz, a potem nie musisz o tym więcej myśleć (np. automatyzacja).
 
 ---
 
