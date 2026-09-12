@@ -296,7 +296,7 @@
     + przedstawia Parlamentowi Europejskiemu sprawozdanie z każdego posiedzenia Rady Europejskiej
     + zapewnia na swoim poziomie oraz w zakresie swojej właściwości reprezentację Unii na zewnątrz w sprawach dotyczących wspólnej polityki zagranicznej i bezpieczeństwa (bez uszczerbku dla uprawnień wysokiego przedstawiciela Unii do spraw zagranicznych i polityki bezpieczeństwa)
 
-## RADA (RADA UNII EUROPEJSKIEJ)
+### RADA (RADA UNII EUROPEJSKIEJ)
 
 + Funkcje Rady:
     + pełni, wspólnie z Parlamentem Europejskim funkcję prawodawczą i budżetową
