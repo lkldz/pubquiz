@@ -197,3 +197,138 @@
     + warunek liczbowy: obywatele muszą pochodzić ze znacznej liczby Państw Członkowskich
     + cel inicjatywy: przedłożenie przez Komisję (w ramach jej uprawnień) odpowiedniego wniosku w sprawach, w odniesieniu do których – zdaniem obywateli – stosowanie Traktatów wymaga aktu prawnego Unii
     + procedury i warunki wymagane w celu przedstawienia inicjatywy określa artykuł 24 akapit pierwszy Traktatu o funkcjonowaniu Unii Europejskiej
+
++ Parlamenty narodowe aktywnie przyczyniają się do prawidłowego funkcjonowania Unii poprzez:
+    + otrzymywanie od instytucji Unii informacji oraz projektów aktów ustawodawczych Unii (zgodnie z Protokołem w sprawie roli parlamentów narodowych w Unii Europejskiej)
+    + czuwanie nad poszanowaniem zasady pomocniczości (zgodnie z procedurami z Protokołu w sprawie stosowania zasad pomocniczości i proporcjonalności)
+    + uczestnictwo w mechanizmach oceniających wykonanie polityk Unii 
+        + w ramach przestrzeni wolności, bezpieczeństwa i sprawiedliwości (zgodnie z art. 70 ToFUE) 
+        + oraz włączanie się w polityczną kontrolę Europolu i ocenę działalności Eurojustu (zgodnie z art. 88 i 85 ToFUE)
+    + uczestnictwo w procedurach zmiany Traktatów (zgodnie z artykułem 48 niniejszego Traktatu)
+    + otrzymywanie informacji na temat wniosków o przystąpienie do Unii (zgodnie z artykułem 49 niniejszego Traktatu)
+    + uczestnictwo we współpracy międzyparlamentarnej między parlamentami narodowymi i z Parlamentem Europejskim (zgodnie z Protokołem w sprawie roli parlamentów narodowych w Unii Europejskiej)
+
+---
+##  Postanowienia o instytucjach
+
++ Ramy instytucjonalne Unii:
+    + cel to:
+        - propagowanie wartości Unii, 
+        - realizacja celów Unii 
+        - służenie interesom Unii, jej obywateli i Państw Członkowskich
+    + zadaniem ram instytucjonalnych jest też zapewnianie spójności, skuteczności i ciągłości polityk oraz działań Unii
+
++ Katalog instytucji Unii:
+    + Parlament Europejski
+    + Rada Europejska
+    + Rada
+    + Komisja Europejska (zwana dalej "Komisją")
+    + Trybunał Sprawiedliwości Unii Europejskiej
+    + Europejski Bank Centralny
+    + Trybunał Obrachunkowy
+
++ Zasady działania instytucji:
+    + każda instytucja działa w granicach uprawnień przyznanych jej na mocy Traktatów
+    + działanie odbywa się zgodnie z procedurami, na warunkach i w celach określonych w Traktatach
+    + instytucje lojalnie ze sobą współpracują
+
++ Przepisy szczegółowe i organy doradcze:
+    + postanowienia dotyczące Europejskiego Banku Centralnego, Trybunału Obrachunkowego oraz szczegółowe postanowienia o innych instytucjach znajdują się w Traktacie o funkcjonowaniu Unii Europejskiej
+    + Parlament Europejski, Rada i Komisja są wspomagane przez Komitet Ekonomiczno-Społeczny i Komitet Regionów, które pełnią funkcje doradcze
+
+
+### PARLAMENT EUROPEJSKI
+
++ Funkcje i kompetencje Parlamentu Europejskiego:
+    + pełni, wspólnie z Radą, funkcję prawodawczą i budżetową
+    + pełni funkcje kontroli politycznej i konsultacyjne zgodnie z warunkami przewidzianymi w Traktatach
+    + wybiera przewodniczącego Komisji
+
++ Skład i zasada reprezentacji:
+    + w skład wchodzą przedstawiciele obywateli Unii
+    + liczba członków nie przekracza 750 (nie licząc przewodniczącego)
+    + reprezentacja obywateli ma charakter degresywnie proporcjonalny
+    + minimalny próg to 6 członków na Państwo Członkowskie
+    + maksymalna liczba miejsc dla jednego Państwa Członkowskiego to 96
+    + Rada Europejska przyjmuje jednomyślnie decyzję określającą skład Parlamentu Europejskiego
+    + decyzja Rady Europejskiej podejmowana jest z inicjatywy Parlamentu Europejskiego i po uzyskaniu jego zgody (z poszanowaniem zasad dotyczących składu)
+
++ Kadencja i wybory:
+    + członkowie są wybierani na pięcioletnią kadencję
+    + wybory są powszechne, bezpośrednie, wolne i tajne
+
++ Organizacja wewnętrzna:
+    + Parlament Europejski wybiera spośród swoich członków przewodniczącego i prezydium
+
+### RADA EUROPEJSKA
+
++ Rola i zadania Rady Europejskiej:
+    + nadaje Unii impulsy niezbędne do jej rozwoju
+    + określa ogólne kierunki i priorytety polityczne
+    + nie pełni funkcji prawodawczej
+
++ Skład Rady Europejskiej:
+    + szefowie państw lub rządów Państw Członkowskich
+    + przewodniczący Rady Europejskiej
+    + przewodniczący Komisji
+    + w pracach uczestniczy wysoki przedstawiciel Unii do spraw zagranicznych i polityki bezpieczeństwa
+
++ Tryb posiedzeń:
+    + zbiera się dwa razy w ciągu półrocza
+    + zwoływana przez jej przewodniczącego
+    + w razie potrzeby członkowie mogą zdecydować, aby każdemu z nich towarzyszył minister (a w przypadku przewodniczącego Komisji – członek Komisji)
+    + przewodniczący zwołuje nadzwyczajne posiedzenie, jeśli sytuacja tego wymaga
+
++ Podejmowanie decyzji:
+    + decyzje podejmowane w drodze konsensusu (o ile Traktaty nie stanowią inaczej)
+
++ Przewodniczący Rady Europejskiej:
+    + wybierany przez Radę Europejską większością kwalifikowaną
+    + kadencja trwa dwa i pół roku
+    + mandat jest jednokrotnie odnawialny
+    + Rada Europejska może pozbawić przewodniczącego mandatu większością kwalifikowaną w przypadku przeszkody lub poważnego uchybienia
+    + nie może sprawować krajowej funkcji publicznej
+
++ Zadania przewodniczącego Rady Europejskiej:
+    + przewodniczy Radzie Europejskiej i prowadzi jej prace
+    + zapewnia przygotowanie i ciągłość prac Rady Europejskiej (we współpracy z przewodniczącym Komisji i na podstawie prac Rady do Spraw Ogólnych)
+    + wspomaga osiąganie spójności i konsensusu w Radzie Europejskiej
+    + przedstawia Parlamentowi Europejskiemu sprawozdanie z każdego posiedzenia Rady Europejskiej
+    + zapewnia na swoim poziomie oraz w zakresie swojej właściwości reprezentację Unii na zewnątrz w sprawach dotyczących wspólnej polityki zagranicznej i bezpieczeństwa (bez uszczerbku dla uprawnień wysokiego przedstawiciela Unii do spraw zagranicznych i polityki bezpieczeństwa)
+
+## RADA (RADA UNII EUROPEJSKIEJ)
+
++ Funkcje Rady:
+    + pełni, wspólnie z Parlamentem Europejskim funkcję prawodawczą i budżetową
+    + pełni funkcje określania polityki i koordynacji zgodnie z warunkami przewidzianymi w Traktatach
+
++ Skład Rady:
+    + jeden przedstawiciel szczebla ministerialnego z każdego Państwa Członkowskiego
+    + przedstawiciel jest upoważniony do zaciągania zobowiązań w imieniu swojego rządu oraz do wykonywania prawa głosu
+
++ Zasady głosowania w Radzie:
+    + o ile Traktaty nie stanowią inaczej, Rada stanowi większością kwalifikowaną
+    + definicja większości kwalifikowanej (od 1 listopada 2014 roku): 
+        - co najmniej 55% członków Rady (jednak nie mniej niż piętnastu z nich), 
+        - reprezentujących Państwa Członkowskie, których łączna liczba ludności stanowi co najmniej 65% ludności Unii
+    + mniejszość blokująca: musi obejmować co najmniej czterech członków Rady, 
+        - w przeciwnym razie uznaje się, że większość kwalifikowana została osiągnięta
+
++ Składy Rady i organizacja pracy:
+    + Rada zbiera się na posiedzenia w różnych składach (wykaz przyjmowany zgodnie z art. 236 ToFUE)
+    + Rada do Spraw Ogólnych:
+        - zapewnia spójność prac różnych składów Rady 
+        - oraz przygotowuje posiedzenia Rady Europejskiej i zapewnia ich ciągłość (w powiązaniu z przewodniczącym Rady Europejskiej i Komisją)
+    + Rada do Spraw Zagranicznych: 
+        - opracowuje działania zewnętrzne Unii na podstawie strategicznych kierunków określonych przez Radę Europejską 
+        - oraz zapewnia spójność działań Unii
+    + za przygotowanie prac Rady odpowiada Komitet Stałych Przedstawicieli Rządów Państw Członkowskich
+
++ Jawność posiedzeń:
+    + posiedzenia Rady są jawne, kiedy Rada obraduje i głosuje nad projektem aktu prawodawczego
+    + każde posiedzenie składa się z dwóch części, poświęconych odpowiednio: 
+        - obradom nad aktami ustawodawczymi Unii 
+        -  oraz działaniom o charakterze nieustawodawczym
+
++ Prezydencja:
+    + prezydencję składów Rady (z wyjątkiem Rady do Spraw Zagranicznych) sprawują na zasadzie równej rotacji przedstawiciele Państw Członkowskich w Radzie (na warunkach określonych zgodnie z art. 236 ToFUE)
